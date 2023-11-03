@@ -1,3 +1,9 @@
+# Deployed link
+https://getliveweather.netlify.app/
+
+### Home Page
+![Screenshot 2023-08-11 201237](https://github.com/arunkumar-gith/Food-MERN/assets/71975018/f71fa895-10f9-426e-9e3a-41c7d00ea0e3)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
